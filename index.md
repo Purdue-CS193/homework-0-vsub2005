@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- It's a CS class and I love programming
+- There's no final or midterm :)
 
 1. Numbered
 2. List
